@@ -9,7 +9,7 @@ public class StringContainsVowels
 
 	public static boolean stringContainsVowels(String input)    // this give string input
      {
-		return input.toLowerCase().matches(".*[aeiou].*");
+		return input.toLowerCase().matches(".*[aeiou].*"); //return the value
 	}
 
 }
