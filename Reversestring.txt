@@ -3,9 +3,9 @@
 
 	public static void main(String[] args)    //main method in java program
      {
-		String str = "123";
+		String str = "123";        
 
-		System.out.println(reverse(str)); 
+		System.out.println(reverse(str));     //print the value
 	}
 
 	public static String reverse(String in) 
