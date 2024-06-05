@@ -1,7 +1,7 @@
   public class StringPrograms
      {
 
-	public static void main(String[] args)    //main method in java program
+	public static void main(String[] args)    //main method in java code
      {
 		String str = "123";        
 
