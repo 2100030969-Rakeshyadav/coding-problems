@@ -5,7 +5,7 @@
      {
 		String str = "123";        
 
-		System.out.println(reverse(str));     //print the value
+		System.out.println(reverse(str));     
 	}
 
 	public static String reverse(String in) 
