@@ -1,6 +1,6 @@
 public class PrimeExample
 {    
- public static void main(String args[])     
+ public static void main(String args[])     //MAIN METHOD
  {    
   int i,m=0,flag=0;     
   int n=3; 
@@ -20,7 +20,7 @@ public class PrimeExample
      break;      
     }      
    }      
-   if(flag==0)  { System.out.println(n+" is prime number"); 
+   if(flag==0)  { System.out.println(n+" is prime number"); //prime number total code
    }  
   } 
 }    
