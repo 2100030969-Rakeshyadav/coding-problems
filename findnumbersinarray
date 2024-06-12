@@ -8,7 +8,7 @@ public class ArrayLength
 
  int length = array.length;
 
- System.out.println(“Number of elements in the array: ” + length); //its prints the number of array
+ System.out.println(“Number of elements in the array: ” + length); 
 
  }
 
