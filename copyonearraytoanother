@@ -11,7 +11,7 @@ public class CopyArray
         {     
             arr2[i] = arr1[i];     
         }      
-        System.out.println("Elements of original array: ");    
+        System.out.println("Elements of original array: ");   //print original array elements 
         for (int i = 0; i < arr1.length; i++) 
         {     
            System.out.print(arr1[i] + " ");    
