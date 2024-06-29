@@ -13,7 +13,7 @@
 		if (in == null)
 			throw new IllegalArgumentException("Null is not valid input");
 
-		StringBuilder out = new StringBuilder();    //string builder object
+		StringBuilder out = new StringBuilder();   
 
 		char[] chars = in.toCharArray();      
 
